@@ -1,3 +1,10 @@
 node_modules
 
+#ev
 .env
+
+#certificate
+key-pair-sage.pem
+
+#deployment script
+deploy.sh
