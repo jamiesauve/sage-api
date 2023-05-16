@@ -4,7 +4,7 @@ dotenv.config();
 const cors = require('cors');
 const express = require('express');
 const app = express();
-const port = 4200;
+const port = 443;
 
 const allowedOrigins = process.env.ALLOWED_ORIGINS.split(",");
 
